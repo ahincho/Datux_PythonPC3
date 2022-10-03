@@ -1,6 +1,6 @@
 
 # Autor: Hincho Jove, Angel
-# Programa para controlar el nivel de gasolina en un vehiculo
+# Programa para controlar el nivel de gasolina en un vehiculo en general
 
 def calcularPorcentaje():
     while True:
